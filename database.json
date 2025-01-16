@@ -74,6 +74,11 @@
       "id": 5,
       "userId": 5,
       "postId": 4
+    },
+    {
+      "userId": 7,
+      "postId": 6,
+      "id": 6
     }
   ],
   "posts": [
@@ -118,11 +123,11 @@
       "topicId": 1
     },
     {
-      "title": "Music",
-      "body": "I Like Music.",
+      "title": "Music Production ",
+      "body": "I like Producing music on my off time.",
       "topicId": 4,
       "userId": 7,
-      "date": "2025-01-16T20:31:30.428Z",
+      "date": "2025-01-16T21:39:08.129Z",
       "id": 6
     }
   ],

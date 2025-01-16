@@ -74,31 +74,6 @@
       "id": 5,
       "userId": 5,
       "postId": 4
-    },
-    {
-      "userId": 7,
-      "postId": 4,
-      "id": 6
-    },
-    {
-      "userId": 7,
-      "postId": 4,
-      "id": 7
-    },
-    {
-      "userId": 7,
-      "postId": 4,
-      "id": 8
-    },
-    {
-      "userId": 7,
-      "postId": 1,
-      "id": 9
-    },
-    {
-      "userId": 7,
-      "postId": 2,
-      "id": 10
     }
   ],
   "posts": [
@@ -141,6 +116,14 @@
       "date": "12-10-2025",
       "userId": 5,
       "topicId": 1
+    },
+    {
+      "title": "Music",
+      "body": "I Like Music.",
+      "topicId": 4,
+      "userId": 7,
+      "date": "2025-01-16T20:31:30.428Z",
+      "id": 6
     }
   ],
   "topics": [

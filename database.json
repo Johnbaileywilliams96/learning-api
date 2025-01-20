@@ -77,8 +77,13 @@
     },
     {
       "userId": 7,
-      "postId": 6,
-      "id": 6
+      "postId": 7,
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "postId": 4,
+      "id": 8
     }
   ],
   "posts": [
@@ -123,12 +128,22 @@
       "topicId": 1
     },
     {
-      "title": "Music Production ",
-      "body": "I like Producing music on my off time.",
-      "topicId": 4,
+      "title": "Always Hungry",
+      "body": "Yuppie",
+      "topicId": 5,
       "userId": 7,
-      "date": "2025-01-16T21:39:08.129Z",
-      "id": 6
+      "date": "2025-01-17T04:02:07.855Z",
+      "id": 7,
+      "user": {
+        "email": "j9@gmail.com",
+        "fullName": "j",
+        "cohort": 4,
+        "id": 7
+      },
+      "topic": {
+        "id": 5,
+        "topicName": "Food"
+      }
     }
   ],
   "topics": [
